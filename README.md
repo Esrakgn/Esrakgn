@@ -1,83 +1,70 @@
-<h1 align="center">Merhaba 👋, Ben Esra Akgün</h1>
+<div align="center">
 
-<p align="center">
-  🎓 Mehmet Akif Ersoy Üniversitesi <b>Yönetim Bilişim Sistemleri</b> 4. sınıf öğrencisiyim. <br>
-  💡 <b>Yapay Zekâ (AI)</b>, <b>Veri Bilimi</b> ve <b>Makine Öğrenimi</b> alanlarıyla ilgileniyorum. <br>
-  🧠 Özellikle <b>görüntü işleme</b>  tabanlı projeler geliştiriyorum.
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Merhaba+%F0%9F%91%8B+Ben+Esra+Akg%C3%BCn;Yapay+Zeka+Tutkunu;G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme+Geli%C5%9Ftiricisi;YBS+%C3%96%C4%9Frencisi" alt="Typing SVG" />
 
----
+  <h3 align="center">🤖 Yapay Zeka & Veri Bilimi Yolcusu</h3>
 
-### 🏆 GitHub Başarı Rozetlerim
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esrakgn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+  <p align="center">
+    🎓 <b>Mehmet Akif Ersoy Üniversitesi</b> Yönetim Bilişim Sistemleri 4. Sınıf
+    <br/>
+    🧠 Özellikle <b>Computer Vision (Görüntü İşleme)</b> üzerine odaklanıyorum.
+  </p>
+  
+  <br/>
 
----
-
-### 📊 GitHub İstatistiklerim
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esrakgn&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esrakgn&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
----
-
-### 🔥 GitHub Aktivite Grafiğim
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=esrakgn&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💻 Tech Stack
-
-### 🔹 Programlama Dilleri
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c-plusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 🔹 AI / Data Science / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-
-### 🔹 Web / Database / Diğer Araçlar
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-## 📬 İletişim
-<p align="center">
   <a href="mailto:esrakgun.409@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-
   <a href="https://www.linkedin.com/in/esra-akgün-928b171ba">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  <a href="https://github.com/esrakgn">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
 
-  <a href="https://github.com/esrakgn">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+</div>
+
+<br/>
+<hr/>
+
+<h3 align="center">🏆 Başarılarım & Rozetlerim</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=esrakgn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</div>
+
+<hr/>
+
+<h3 align="center">📊 GitHub Analizim</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=esrakgn&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esrakgn&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" height="160" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=esrakgn&theme=tokyonight&hide_border=true&background=00000000" height="140" />
+</div>
+
+<hr/>
+
+<h3 align="center">🛠️ Teknolojiler & Araçlar</h3>
+
+<div align="center">
+
+| **Diller** | **AI & Veri Bilimi** | **Web & Araçlar** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,kotlin" /><br/><img src="https://skillicons.dev/icons?i=ts,js" /><br/><img src="https://skillicons.dev/icons?i=cs,cpp" /> | <img src="https://skillicons.dev/icons?i=tensorflow,opencv" /><br/><img src="https://skillicons.dev/icons?i=sklearn,pytorch" /><br/><img src="https://skillicons.dev/icons?i=anaconda" /> | <img src="https://skillicons.dev/icons?i=html,nodejs" /><br/><img src="https://skillicons.dev/icons?i=firebase,mysql" /><br/><img src="https://skillicons.dev/icons?i=git,github" /> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esrakgn&theme=tokyonight" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
   <a href="https://www.kaggle.com/esraakgn">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
