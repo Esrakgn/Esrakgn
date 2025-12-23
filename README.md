@@ -21,6 +21,9 @@
   <a href="https://github.com/esrakgn">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
+  <a href="https://www.kaggle.com/esrakgn">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="30" />
+  </a>
 
 </div>
 
@@ -52,7 +55,7 @@
 
 | **Diller** | **AI & Veri Bilimi** | **Web & Araçlar** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,kotlin" /><br/><img src="https://skillicons.dev/icons?i=ts,js" /><br/><img src="https://skillicons.dev/icons?i=cs,cpp" /> | <img src="https://skillicons.dev/icons?i=tensorflow,opencv" /><br/><img src="https://skillicons.dev/icons?i=sklearn,pytorch" /><br/><img src="https://skillicons.dev/icons?i=anaconda" /> | <img src="https://skillicons.dev/icons?i=html,nodejs" /><br/><img src="https://skillicons.dev/icons?i=firebase,mysql" /><br/><img src="https://skillicons.dev/icons?i=git,github" /> |
+| <img src="https://skillicons.dev/icons?i=python,kotlin" /><br/><img src="https://skillicons.dev/icons?i=ts,js" /><br/><img src="https://skillicons.dev/icons?i=cs,cpp" /> | <img src="https://skillicons.dev/icons?i=tensorflow,opencv" /><br/><img src="https://skillicons.dev/icons?i=sklearn,pytorch" /><br/><img src="https://skillicons.dev/icons?i=anaconda,kaggle" /> | <img src="https://skillicons.dev/icons?i=html,nodejs" /><br/><img src="https://skillicons.dev/icons?i=firebase,mysql" /><br/><img src="https://skillicons.dev/icons?i=git,github" /> |
 
 </div>
 
@@ -65,13 +68,4 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
-
-  <a href="https://www.kaggle.com/esraakgn">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">✨ <i>Veriyi değere, fikirleri projeye dönüştürme yolculuğum.</i> ✨</p>
 
